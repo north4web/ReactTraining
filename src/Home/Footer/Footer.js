@@ -5,7 +5,8 @@ class Footer extends React.Component {
     render(){
         return(
             <div>
-                This is Footer
+                ------------------------------------------- <br />
+                From here down is Footer
             </div>
         )
     }
